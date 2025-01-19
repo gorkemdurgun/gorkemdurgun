@@ -1,16 +1,8 @@
 # 👋 Hello, I'm Görkem Durgun!
 
-🌟 **Frontend Engineer** | 🚀 Passionate about **Web & Mobile Development** and **IoT**  
-📍 Based in İzmir, Türkiye | 🎓 Bachelor's Degree in Computer Engineering  
-
----
-
-## 🚀 About Me
-
-- 💻 A dedicated Frontend Engineer with expertise in modern web and mobile technologies.
-- 🌟 I’m passionate about creating intuitive, responsive, and performant applications.
-- 🌱 An aesthetics- and performance-driven developer who crafts efficient applications.
-- 📈 Currently focused on advancing my skills in **Next.js**, **React.js**, and **IoT**.
+🌟 **Frontend Engineer**
+📍 Based in İzmir, Türkiye
+🎓 Bachelor's Degree in Computer Engineering
 
 ---
 
