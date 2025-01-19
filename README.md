@@ -46,9 +46,7 @@
   🌐 Live Demo: [pawrules.vercel.app](https://pawrules.vercel.app)  
 
 - **[Salute Frontend Case](https://github.com/gorkemdurgun/salute-frontend-case)**: A frontend case project demonstrating modern UI/UX practices.  
-  🌐 Live Demo:  
-  - [Jira Clone](https://salute-frontend-case-gorkemdurgun.vercel.app/jira)  
-  - [Main Page](https://salute-frontend-case-gorkemdurgun.vercel.app)
+  🌐 Live Demo: [salute-frontend-case-gorkemdurgun.vercel.app](https://salute-frontend-case-gorkemdurgun.vercel.app)
 
 - **[ReactJS Essays 1](https://github.com/gorkemdurgun/reactjs-essays-1)**: A hobby project developed with React.js.  
   🌐 Live Demo: [reactjs-essays-1.vercel.app](https://reactjs-essays-1.vercel.app)
