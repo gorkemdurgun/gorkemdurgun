@@ -43,16 +43,16 @@
 ## 🏆 Featured Projects
 
 - **[Pawrules](https://github.com/gorkemdurgun/pawrules)**: A landing page for a pet shop website.  
-  🌐 Live Demo: [pawrules.vercel.app](https://pawrules.vercel.app)  
+  🌐 Live Demo: <a href="https://pawrules.vercel.app" target="_blank">pawrules.vercel.app</a>
 
 - **[Salute Frontend Case](https://github.com/gorkemdurgun/salute-frontend-case)**: A frontend case project demonstrating modern UI/UX practices.  
-  🌐 Live Demo: [salute-frontend-case-gorkemdurgun.vercel.app](https://salute-frontend-case-gorkemdurgun.vercel.app)
+  🌐 Live Demo: <a href="https://salute-frontend-case-gorkemdurgun.vercel.app" target="_blank">salute-frontend-case-gorkemdurgun.vercel.app</a>
 
 - **[ReactJS Essays 1](https://github.com/gorkemdurgun/reactjs-essays-1)**: A hobby project developed with React.js.  
-  🌐 Live Demo: [reactjs-essays-1.vercel.app](https://reactjs-essays-1.vercel.app)
+  🌐 Live Demo: <a href="https://reactjs-essays-1.vercel.app" target="_blank">reactjs-essays-1.vercel.app</a>
 
 - **[Veticube Portal](https://github.com/gorkemdurgun/veticube-portal)**: A web portal for IoT-based veterinary care.  
-  🌐 Live Demo: [veticube-portal.vercel.app](https://veticube-portal.vercel.app)
+  🌐 Live Demo: <a href="https://veticube-portal.vercel.app" target="_blank">veticube-portal.vercel.app</a>
 
 ---
 
