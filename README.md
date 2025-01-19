@@ -1,8 +1,15 @@
 # 👋 Hello, I'm Görkem Durgun!
 
-🌟 **Frontend Engineer**
-📍 Based in İzmir, Türkiye
-🎓 Bachelor's Degree in Computer Engineering
+🌟 **Frontend Engineer**  
+📍 Based in İzmir, Türkiye  
+🎓 Bachelor's Degree in Computer Engineering  
+
+---
+
+## 📫 How to reach me
+
+- 📧 Email: [gorkemdurgun99@gmail.com](mailto:gorkemdurgun99@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gorkemdurgun](https://www.linkedin.com/in/gorkemdurgun/)
 
 ---
 
@@ -22,13 +29,6 @@
 
 ![Görkem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorkemdurgun&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemdurgun&layout=compact&theme=radical)
-
----
-
-## 📫 How to reach me
-
-- 📧 Email: [gorkemdurgun99@gmail.com](mailto:gorkemdurgun99@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/gorkemdurgun](https://www.linkedin.com/in/gorkemdurgun/)
 
 ---
 
