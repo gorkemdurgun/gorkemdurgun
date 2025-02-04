@@ -38,7 +38,7 @@
   🌐 Live Demo: <a href="https://pawrules.vercel.app" target="_blank">pawrules.vercel.app</a>
 
 - **[Jira Clone](https://github.com/gorkemdurgun/jira-clone)**: A jira clone demonstrating modern UI/UX practices.  
-  🌐 Live Demo: <a href="https://jira-clone-ashy-alpha.vercel.app" target="_blank">[salute-frontend-case-gorkemdurgun.vercel.app](https://jira-clone-ashy-alpha.vercel.app)</a>
+  🌐 Live Demo: <a href="https://jira-clone-ashy-alpha.vercel.app" target="_blank">jira-clone-ashy-alpha.vercel.app</a>
 
 - **[ReactJS Essays 1](https://github.com/gorkemdurgun/reactjs-essays-1)**: A hobby project developed with React.js.  
   🌐 Live Demo: <a href="https://reactjs-essays-1.vercel.app" target="_blank">reactjs-essays-1.vercel.app</a>
